@@ -1,0 +1,4 @@
+<g id="FaceSpot2">
+  <path id="FaceSpot3-2" data-name="FaceSpot3" class="cls-31" d="M44.57,186c0,2.95-2.73,5.34-6.09,5.34S32.39,189,32.39,186s2.73-5.35,6.09-5.35S44.57,183.06,44.57,186Z"/>
+  <ellipse id="FaceSpot4" class="cls-31" cx="87.56" cy="186.02" rx="6.09" ry="5.35"/>
+</g>

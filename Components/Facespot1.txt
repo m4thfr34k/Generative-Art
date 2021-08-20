@@ -1,0 +1,4 @@
+<g id="FaceSpot1">
+  <ellipse id="FaceSpot1-2" data-name="FaceSpot1" class="cls-31" cx="33.24" cy="185.32" rx="10.08" ry="5.44"/>
+  <ellipse id="FaceSpot2-2" data-name="FaceSpot2" class="cls-31" cx="95.64" cy="185.32" rx="10.08" ry="5.44"/>
+</g>
